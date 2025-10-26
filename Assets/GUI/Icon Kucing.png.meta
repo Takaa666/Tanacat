@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icon Kucing_0: -4618384246939170771
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
